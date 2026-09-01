@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import MedGuardLanding from "./components/MedGuardLanding";
+import MedGuardLanding from "./components/Landing";
 
 /*
 |--------------------------------------------------------------------------
